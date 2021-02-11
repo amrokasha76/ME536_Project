@@ -1,0 +1,9 @@
+numpy
+opencv (cv2)
+tensorflow
+sklean
+scipy
+seaborn
+pandas
+matplotlib
+serial
