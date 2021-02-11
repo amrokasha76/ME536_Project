@@ -1,7 +1,7 @@
 numpy
 opencv (cv2)
 tensorflow
-sklean
+sklearn
 scipy
 seaborn
 pandas
